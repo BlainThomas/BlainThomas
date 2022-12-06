@@ -5,7 +5,7 @@
 
 I'm a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A Billiards](https://www.badabilliards.com/). Beside's Computer Science, I love spending time with my family, snowboarding and great food! 
 
-####      ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-green) ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
 **Talking about Personal Stuffs:**
 
