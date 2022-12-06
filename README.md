@@ -3,7 +3,7 @@
 ### Hey 👋🏽, I'm [Blain Thomas](https://www.linkedin.com/in/blain-thomas-37aa26a4/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlainThomas" alt="sanket9006" /> </p> 
 
-Hi, I'm Blain Thomas, a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A Billiards](https://www.badabilliards.com/). Beside's Computer Science, I love spending time with my family, snowboarding and great food! 
+I'm a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A Billiards](https://www.badabilliards.com/). Beside's Computer Science, I love spending time with my family, snowboarding and great food! 
 
 ####      ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
