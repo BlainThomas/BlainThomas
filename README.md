@@ -9,7 +9,7 @@
 
 Hi, I'm Blain Thomas, a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A Billiards](https://www.badabilliards.com/). Beside's Computer Science, I love spending time with my family, snowboarding and great food! 
 
-####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue) ![](https://img.shields.io/badge/SEO-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
 **Talking about Personal Stuffs:**
 
@@ -17,21 +17,32 @@ Hi, I'm Blain Thomas, a Full Stack Developer from Boise, ID. Currently I'm a Tea
 - 🌱 I’m currently learning solidity for contracts on the polygon network.
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: BlainThomas12@gmail.com
-- 📝[Resume](https://www.sanketpatil.me/wp-content/uploads/2020/07/Sanket-Patil-_-Rsesume.pdf)
+- 📝[Resume](https://github.com/BlainThomas/BlainThomas/blob/master/Blain%20Thomas%20Software%20Engineer%20Resume.pdf)
 
 **Languages and Tools:**   
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/C%23.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NodeJS.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NextJS.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/JavaScript.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/HTML.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/CSS.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MySQL.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Moralis.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Photon.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Playfab.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png"></code>
+<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/GitBash.png"></code>
+
 
 ![Blain's github stats](https://github-readme-stats.vercel.app/api?username=BlainThomas&show_icons=true&theme=radical)
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+![Dino](https://raw.githubusercontent.com/BlainThomas/BlainThomas/master/dino.gif)
 
 
 
