@@ -9,8 +9,8 @@ I'm a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently partcipating in as much Hackathons as I can
-- 🌱 I’m currently learning solidity for contracts on the polygon network.
+- 👨🏽‍💻 I’m currently building a web3 mobile billiards game.
+- 🌱 I’m continuing learning solidity for contracts on the polygon network.
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: BlainThomas12@gmail.com
 - 📝[Resume](https://github.com/BlainThomas/BlainThomas/blob/master/Blain%20Thomas%20Software%20Engineer%20Resume.pdf)
@@ -19,23 +19,27 @@ I'm a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A
 
 **Languages and Tools:**   
 
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/C%23.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NodeJS.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NextJS.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/JavaScript.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/HTML.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/CSS.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MySQL.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Moralis.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Photon.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Playfab.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png"></code>
-<code><img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/GitBash.png"></code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/C%23.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png">](https://reactjs.org/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NodeJS.png">](https://nodejs.org/en/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NextJS.png">](https://nextjs.org/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/JavaScript.png">](https://www.javascript.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png">](https://docs.soliditylang.org/en/v0.8.17/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png">](https://www.python.org/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png">](https://tailwindcss.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/HTML.png">](https://html.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/CSS.png">](https://www.w3.org/Style/CSS/Overview.en.html)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MySQL.png">](https://www.mysql.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png">](https://www.mongodb.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Moralis.png">](https://moralis.io/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Photon.png">](https://www.photonengine.com/pun)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Playfab.png">](https://playfab.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png">](https://supabase.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/GitBash.png">](https://git-scm.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/AutoCad.png">](https://www.autodesk.com/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Revit.png">](https://www.autodesk.com/products/revit/overview)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Gimp.png">](https://www.gimp.org/)</code>
+<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Photoshop.png">](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other)</code>
 
 <br/>
 
