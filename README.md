@@ -1,11 +1,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-BlainThomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blain-thomas-37aa26a4/)](https://www.linkedin.com/in/blain-thomas-37aa26a4/) [![Twitter Badge](https://img.shields.io/badge/-@RealDev_on-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RealDev_on)](https://twitter.com/RealDev_on) 
 
-### Hey 👋🏽, I'm [Blain Thomas](https://www.linkedin.com/in/blain-thomas-37aa26a4/) 
+# Hey 👋🏽, I'm [Blain Thomas](https://www.linkedin.com/in/blain-thomas-37aa26a4/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlainThomas" alt="sanket9006" /> </p> 
 
 I'm a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A Billiards](https://www.badabilliards.com/). Beside's Computer Science, I love spending time with my family, snowboarding and great food! 
 
-####      ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+####      ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
 **Talking about Personal Stuffs:**
 
@@ -42,9 +42,6 @@ I'm a Full Stack Developer from Boise, ID. Currently I'm a Team Member at [Bad A
 ![Blain's github stats](https://github-readme-stats.vercel.app/api?username=BlainThomas&show_icons=true&theme=radical)
 
 <br/>
-
-![Dino](https://raw.githubusercontent.com/BlainThomas/BlainThomas/master/dino.gif)
-
 
 
 
