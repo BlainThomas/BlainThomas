@@ -5,19 +5,7 @@
 
 I'm a Full Stack Developer from Boise, ID. Currently a Team Member at [Bad A Billiards](https://badabilliards.com/). I have been developing various projects from modeling 3D BIM projects for clashes with all of the building trades to monitoring Bitcoin miners and power cycling them when they went offline. I graduated from Scrimba's Frontend Career Path and started developing more frontend projects such as Bad A Billidards mobile game as well as their website. I have been integrating web3 into mobile gameplay as well as the website. I have also developed other react sites with backends that find businesses in a geolocation and saves them to a supabase backend. Besides Computer Science, I love spending time with my family, snowboarding, and great food!
 
-####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-green) ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently building a web3 mobile billiards game.
-- 🌱 I’m continuing learning solidity for contracts on the polygon network.
-- 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me: BlainThomas12@gmail.com
-<!-- - 📝[Resume](https://github.com/BlainThomas/BlainThomas/blob/master/Blain%20Thomas%20Software%20Engineer%20Resume.pdf) -->
-
 <br/>
-
-**Languages and Tools:**   
 
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/C%23.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png">](https://reactjs.org/)</code>
