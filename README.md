@@ -27,19 +27,10 @@ I'm a Full Stack Developer from Boise, ID. Currently a Team Member at [Bad A Bil
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png">](https://docs.soliditylang.org/en/v0.8.17/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png">](https://www.python.org/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png">](https://tailwindcss.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/HTML.png">](https://html.com/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/CSS.png">](https://www.w3.org/Style/CSS/Overview.en.html)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MySQL.png">](https://www.mysql.com/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png">](https://www.mongodb.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Moralis.png">](https://moralis.io/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Photon.png">](https://www.photonengine.com/pun)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Playfab.png">](https://playfab.com/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png">](https://supabase.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/GitBash.png">](https://git-scm.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/AutoCad.png">](https://www.autodesk.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Revit.png">](https://www.autodesk.com/products/revit/overview)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Gimp.png">](https://www.gimp.org/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Photoshop.png">](https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other)</code>
 
 <br/>
 
