@@ -24,5 +24,10 @@ I'm a Full Stack Developer from Boise, ID. Currently a Team Member at [Bad A Bil
 
 <br/>
 
+# My Portfolio
+
+<br/>
+
+# My Projects
 
 
