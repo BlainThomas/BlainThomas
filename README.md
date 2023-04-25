@@ -13,7 +13,7 @@ I'm a Full Stack Developer from Boise, ID. Currently a Team Member at [Bad A Bil
 - 🌱 I’m continuing learning solidity for contracts on the polygon network.
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: BlainThomas12@gmail.com
-- 📝[Resume](https://github.com/BlainThomas/BlainThomas/blob/master/Blain%20Thomas%20Software%20Engineer%20Resume.pdf)
+<!-- - 📝[Resume](https://github.com/BlainThomas/BlainThomas/blob/master/Blain%20Thomas%20Software%20Engineer%20Resume.pdf) -->
 
 <br/>
 
