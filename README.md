@@ -23,11 +23,9 @@ I'm a Full Stack Developer from Boise, ID. Currently a Team Member at [Bad A Bil
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png">](https://reactjs.org/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NodeJS.png">](https://nodejs.org/en/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NextJS.png">](https://nextjs.org/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/JavaScript.png">](https://www.javascript.com/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png">](https://docs.soliditylang.org/en/v0.8.17/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png">](https://www.python.org/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png">](https://tailwindcss.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/CSS.png">](https://www.w3.org/Style/CSS/Overview.en.html)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MySQL.png">](https://www.mysql.com/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png">](https://www.mongodb.com/)</code>
 <code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png">](https://supabase.com/)</code>
