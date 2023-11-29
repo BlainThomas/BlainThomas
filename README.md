@@ -2,18 +2,39 @@
 
 # Hey 👋🏽, I'm [Blain Thomas](https://www.linkedin.com/in/blain-thomas-37aa26a4/) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BlainThomas" alt="sanket9006" /> </p> 
+# Full Stack Developer & Blockchain Enthusiast - American Fork, UT
 
-I'm a Full Stack Developer from Boise, ID. Currently a Team Member at [Bad A Billiards](https://badabilliards.com/). I have been developing various projects from modeling 3D BIM projects for clashes with all of the building trades to monitoring Bitcoin miners and power cycling them when they went offline. I graduated from Scrimba's Frontend Career Path and started developing more frontend projects such as Bad A Billidards mobile game as well as their website. I have been integrating web3 into mobile gameplay as well as the website. I have also developed other react sites with backends that find businesses in a geolocation and saves them to a supabase backend. Besides Computer Science, I love spending time with my family, snowboarding, and great food!
+Hello! I'm currently a Software Engineer at **Nerd United** in Lehi, UT, where I'm deeply involved in developing cutting-edge blockchain solutions. My journey in tech has been diverse and exciting, ranging from 3D BIM project modeling to spearheading innovative blockchain integrations.
 
-####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-green) ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+## What I'm Doing Now:
+- **Developing zk-rollup technology** at Nerd United to securely record off-chain data through decentralized consensus.
+- **Contributing to blockchain advancements**, including a recoverable wallet system and cryptographic key generation.
+- **Engineering Go-based solutions** for handling blockchain transactions, including balance retrieval, gas estimates, and smart contract deployment.
+- **Optimizing smart contracts** for efficiency and reduced gas consumption across multiple blockchain platforms.
+- **Providing expert Web3 consultation** for core business functions, enhancing both distribution and bridging processes.
+
+## Recent Highlights:
+- Lead Developer at **Platform 513**, where I developed and maintained lead capture and e-commerce tools, integrating technologies like React, JavaScript, Supabase, and Web3.
+- Application Software Engineer at **Bad A Billiards**, focusing on blockchain integrations, smart contract development, and a web3 e-commerce site.
+- Developed an innovative mobile app for Bad A Billiards, integrating it with PlayFab and Photon for a seamless multiplayer gaming experience.
+
+## Educational Journey:
+- I am currently applying for an MBA with emphesis on blockchain.
+
+## Beyond Coding:
+- When I'm not coding, I cherish spending time with my family, exploring the slopes with my snowboard, and indulging in great food.
+
+## Let's Connect:
+- Feel free to reach out to me for collaborations or just a chat about the latest in blockchain and web development. I'm always excited to connect with fellow tech enthusiasts!
+
+####     ![](https://img.shields.io/badge/Web-%3C%2F%3E-purple) ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-green) ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently building a web3 mobile billiards game.
-- 🌱 I’m continuing learning solidity for contracts on the polygon network.
+- 👨🏽‍💻 I’m currently developing web3 products at Nerd United.
+- 🌱 I’m continuing developing in Go and React.js.
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: BlainThomas12@gmail.com
-<!-- - 📝[Resume](https://github.com/BlainThomas/BlainThomas/blob/master/Blain%20Thomas%20Software%20Engineer%20Resume.pdf) -->
 
 <br/>
 
