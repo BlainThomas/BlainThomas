@@ -13,19 +13,14 @@ Hello! I'm currently a Software Engineer at **Nerd United** in Lehi, UT, where I
 - **Optimizing smart contracts** for efficiency and reduced gas consumption across multiple blockchain platforms.
 - **Providing expert Web3 consultation** for core business functions, enhancing both distribution and bridging processes.
 
-## Recent Highlights:
-- Lead Developer at **Platform 513**, where I developed and maintained lead capture and e-commerce tools, integrating technologies like React, JavaScript, Supabase, and Web3.
-- Application Software Engineer at **Bad A Billiards**, focusing on blockchain integrations, smart contract development, and a web3 e-commerce site.
-- Developed an innovative mobile app for Bad A Billiards, integrating it with PlayFab and Photon for a seamless multiplayer gaming experience.
-
 ## Educational Journey:
-- I am currently applying for an MBA with emphesis on blockchain.
+- I am currently applying for an MBA with emphesis in AI.
 
 ## Beyond Coding:
 - When I'm not coding, I cherish spending time with my family, exploring the slopes with my snowboard, and indulging in great food.
 
 ## Let's Connect:
-- Feel free to reach out to me for collaborations or just a chat about the latest in blockchain and web development. I'm always excited to connect with fellow tech enthusiasts!
+- Feel free to reach out to me for collaborations or just a chat about the latest in blockchain and AI development. I'm always excited to connect with fellow tech enthusiasts!
 
 ####     ![](https://img.shields.io/badge/Web-%3C%2F%3E-purple) ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-green) ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
