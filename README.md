@@ -1,56 +1,50 @@
-[![Linkedin Badge](https://img.shields.io/badge/-BlainThomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blain-thomas-37aa26a4/)](https://www.linkedin.com/in/blain-thomas-37aa26a4/) [![Twitter Badge](https://img.shields.io/badge/-@RealDev_on-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RealDev_on)](https://twitter.com/RealDev_on) 
+[![Linkedin Badge](https://img.shields.io/badge/-BlainThomas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blain-thomas/)](https://www.linkedin.com/in/blain-thomas/) [![Gmail Badge](https://img.shields.io/badge/-BlainThomas12-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blainthomas12@gmail.com)](mailto:blainthomas12@gmail.com)
 
-# Hey 👋🏽, I'm [Blain Thomas](https://www.linkedin.com/in/blain-thomas-37aa26a4/) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlainThomas" alt="sanket9006" /> </p> 
-# Full Stack Developer & Blockchain Enthusiast - American Fork, UT
+# Hey, I'm [Blain Thomas](https://www.linkedin.com/in/blain-thomas/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlainThomas" alt="BlainThomas" /> </p>
 
-Hello! I'm currently a Software Engineer at **Nerd United** in Lehi, UT, where I'm deeply involved in developing cutting-edge blockchain solutions. My journey in tech has been diverse and exciting, ranging from 3D BIM project modeling to spearheading innovative blockchain integrations.
+# Principal SDE & Technical Lead | Full-Stack, AI, Security & Compliance
 
-## What I'm Doing Now:
-- **Developing zk-rollup technology** at Nerd United to securely record off-chain data through decentralized consensus.
-- **Contributing to blockchain advancements**, including a recoverable wallet system and cryptographic key generation.
-- **Engineering Go-based solutions** for handling blockchain transactions, including balance retrieval, gas estimates, and smart contract deployment.
-- **Optimizing smart contracts** for efficiency and reduced gas consumption across multiple blockchain platforms.
-- **Providing expert Web3 consultation** for core business functions, enhancing both distribution and bridging processes.
+Principal Software Engineer and Technical Lead at **Infuse**, where I build and harden systems for federal and defense applications. I ship fast under real constraints — security audits, PCI compliance, FedRAMP requirements, and tight timelines.
 
-## Educational Journey:
-- I am currently applying for an MBA with emphesis in AI.
+Most recently I designed, architected, and shipped **Rectangle Health's in-app payments experience end-to-end in 3 months** as a single engineer — Clover terminal integration, PCI-compliant card-present capture, tokenization, and reconciliation. Built it **agent-first**, pairing with AI coding agents to deliver the surface area of a small team.
 
-## Beyond Coding:
-- When I'm not coding, I cherish spending time with my family, exploring the slopes with my snowboard, and indulging in great food.
+## What I'm Working On
 
-## Let's Connect:
-- Feel free to reach out to me for collaborations or just a chat about the latest in blockchain and AI development. I'm always excited to connect with fellow tech enthusiasts!
+- **Hardening systems for government security and compliance** — making production systems FedRAMP-ready for federal and defense applications at Infuse
+- **Designing secure CI/CD pipelines** with Terraform and Helm for scalable AWS deployments
+- **Building AI-powered developer tools** — local LLM inference infrastructure, agent-first development workflows, and automated content pipelines
+- **[NextMove](https://nextmove.nlinno.com)** — a full-stack job search platform I built with Express, PostgreSQL, React, and Claude API featuring AI-powered job analysis and cover letter generation
 
-####     ![](https://img.shields.io/badge/Web-%3C%2F%3E-purple) ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-green) ![](https://img.shields.io/badge/Game%20Design-%3C%2F%3E-blue) ![](https://img.shields.io/badge/Trouble%20Shooting-%3C!%3E-red) ![](https://img.shields.io/badge/Debugging-%3C!%3E-orange) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
-  
-**Talking about Personal Stuffs:**
+## Background
 
-- 👨🏽‍💻 I’m currently developing web3 products at Nerd United.
-- 🌱 I’m continuing developing in Go and React.js.
-- 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me: BlainThomas12@gmail.com
+- **Fintech & Payments** — PCI-compliant payment systems, Clover integration, card-present capture, tokenization
+- **Security & Compliance** — FedRAMP, HIPAA, Keycloak identity management, secure auth systems
+- **Blockchain & Web3** — zk-rollups, ZK credentialing on EVM networks, Solidity smart contracts, Go-based chain tooling, cross-chain deployment
+- **AI & Automation** — local multi-GPU inference (llama.cpp, ComfyUI, FLUX), agent-first development, Claude API integration
+- **Founder Experience** — scaled a crypto mining operation to $2M+ annual revenue at Delta Containers
+
+## Personal
+
+- Father, snowboarder, food enthusiast
+- Bilingual: English + Spanish
+- Based in Utah
 
 <br/>
 
-**Languages and Tools:**   
+**Languages and Tools:**
 
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/C%23.png">](https://learn.microsoft.com/en-us/dotnet/csharp/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png">](https://reactjs.org/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NodeJS.png">](https://nodejs.org/en/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NextJS.png">](https://nextjs.org/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png">](https://docs.soliditylang.org/en/v0.8.17/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png">](https://www.python.org/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png">](https://tailwindcss.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MySQL.png">](https://www.mysql.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png">](https://www.mongodb.com/)</code>
-<code>[<img height="60" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png">](https://supabase.com/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/React.png">](https://reactjs.org/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NodeJS.png">](https://nodejs.org/en/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/TypeScript.png">](https://www.typescriptlang.org/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png">](https://www.python.org/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/NextJS.png">](https://nextjs.org/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Solidity.png">](https://docs.soliditylang.org/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Supabase.png">](https://supabase.com/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/MongoDB.png">](https://www.mongodb.com/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Tailwind.png">](https://tailwindcss.com/)</code>
+<code>[<img height="50" src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/GitBash.png">](https://git-scm.com/)</code>
 
 <br/>
 
 ![Blain's github stats](https://github-readme-stats.vercel.app/api?username=BlainThomas&show_icons=true&theme=radical)
-
-<br/>
-
-
-
