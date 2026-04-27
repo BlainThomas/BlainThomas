@@ -15,7 +15,7 @@ Most recently I designed, architected, and shipped **Rectangle Health's in-app p
 - **Hardening systems for government security and compliance** — making production systems FedRAMP-ready for federal and defense applications at Infuse
 - **Designing secure CI/CD pipelines** with Terraform and Helm for scalable AWS deployments
 - **Local AI infrastructure** — multi-GPU inference (llama.cpp, ComfyUI, FLUX) powering agent-first development workflows
-- **[NextMove](https://nextmove.nlinno.com)** — full-stack job search platform built with Express, PostgreSQL, React, and Claude API featuring AI-powered job analysis and cover letter generation
+- **[NextMove](https://github.com/BlainThomas/next-move)** ([live demo](https://nextmove.nlinno.com)) — open-source full-stack job search command center built with Express, PostgreSQL, React 19, and the Claude API. Kanban pipeline, AI-powered job analysis, cover letter generation, and webhook-based automated job ingestion.
 
 ## Background
 
