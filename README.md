@@ -11,10 +11,11 @@ Most recently I designed, architected, and shipped **Rectangle Health's in-app p
 
 ## What I'm Working On
 
+- **Max** — an LLM-powered operations agent that runs day-to-day work across a business: writes and reviews code, drafts and ships marketing campaigns, and coordinates across internal tools. Multi-model orchestration across OpenAI, Anthropic Claude, Google Gemini, Higgsfield, and self-hosted local models on infrastructure I provision and manage — routing each task to the model best suited for it.
 - **Hardening systems for government security and compliance** — making production systems FedRAMP-ready for federal and defense applications at Infuse
 - **Designing secure CI/CD pipelines** with Terraform and Helm for scalable AWS deployments
-- **Building AI-powered developer tools** — local LLM inference infrastructure, agent-first development workflows, and automated content pipelines
-- **[NextMove](https://nextmove.nlinno.com)** — a full-stack job search platform I built with Express, PostgreSQL, React, and Claude API featuring AI-powered job analysis and cover letter generation
+- **Local AI infrastructure** — multi-GPU inference (llama.cpp, ComfyUI, FLUX) powering agent-first development workflows
+- **[NextMove](https://nextmove.nlinno.com)** — full-stack job search platform built with Express, PostgreSQL, React, and Claude API featuring AI-powered job analysis and cover letter generation
 
 ## Background
 
